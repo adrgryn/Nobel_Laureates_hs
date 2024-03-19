@@ -1,4 +1,4 @@
-Nobel Laureates
+# Nobel Laureates
 
 This program loads a dataset from a JSON file, performs data exploration, and visualizes the data using various types of charts.
 
@@ -41,3 +41,5 @@ charts.bar_chart(df)
 
 # Analyze distribution of ages by category
 charts.boxplot(df)
+![image](https://github.com/adrgryn/Nobel_Laureates_hs/assets/87693497/08b0d1dc-1f15-47f9-9353-35a06d2885bb)
+
