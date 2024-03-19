@@ -1,4 +1,5 @@
 Nobel Laureates
+
 This program loads a dataset from a JSON file, performs data exploration, and visualizes the data using various types of charts.
 
 Installation
